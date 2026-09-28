@@ -1,16 +1,31 @@
-## Hi there 👋
+==========================================================
+johnnywiththethinkpad 
+===========================================================
 
-<!--
-**johnnywiththethinkpad/johnnywiththethinkpad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, "As far back as I can remember, I always wanted to be a gangster"
 
-Here are some ideas to get you started:
+About Me:
+I think that x86 is in a slow, undeniable structural downfall not that I hate it but that's how tech works
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm doing
+* **Embedded Systems:** Pushing physical microcontrollers to their absolute limits.
+* **Game Development:** Designing interactive gameplay pipelines and mechanics.
+* **Architecture Trends:** Tracking instruction sets and the shift toward modern silicon efficiency.
+
+Tech Stack & Tools
+* **Languages:** Python, American, English
+* **Hardware/Platforms:** BBC micro:bit v2, Microsoft MakeCode, Itch.io
+
+Featured Projects
+[micro:midi](https://github.com)
+An open-source, embedded Digital Audio Workstation (DAW) and loop sequencer built for the micro:bit v2.
+Handles serial-to-MIDI data routing loops under tight 64MHz ARM hardware limitations. Licensed under MIT.
+
+
+[Protect The Bananas](https://itch.io)**
+A fast-paced, browser-playable indie shooter published live on Itch.io. 
+
+That's all folks,
+
+
+
