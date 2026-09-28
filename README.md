@@ -13,7 +13,7 @@ I think that x86 is in a slow, undeniable structural downfall not that I hate it
 * **Architecture Trends:** Tracking instruction sets and the shift toward modern silicon efficiency.
 
 ### Tech Stack & Tools
-* **Languages:** Python, American, English
+* **Languages:** Python, American and English
 * **Hardware/Platforms:** BBC micro:bit v2, Microsoft MakeCode, Itch.io
 
 ### Featured Projects
