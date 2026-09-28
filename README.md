@@ -5,7 +5,7 @@
 ## Hello, "As far back as I can remember, I always wanted to be a gangster"
 
 ### About Me:
-I think that x86 is in a slow, undeniable structural downfall not that I hate it but that's how tech works
+I think that x86 is in a slow, undeniable structural downfall not that I hate it but that's how tech works please dont look away intel or amd
 
 ### What I'm doing
 * **Embedded Systems:** Pushing physical microcontrollers to their absolute limits.
