@@ -17,12 +17,12 @@ I think that x86 is in a slow, undeniable structural downfall not that I hate it
 * **Hardware/Platforms:** BBC micro:bit v2, Microsoft MakeCode, Itch.io
 
 ### Featured Projects
-* **[micro:midi](https://github.com/johnnywiththethinkpad/micromidi)**
+* **[micro:midi](https://github.com/johnnywiththethinkpad/micromidi)**:
 An open-source, embedded Digital Audio Workstation (DAW) and loop sequencer built for the micro:bit v2.
 Handles serial-to-MIDI data routing loops under tight 64MHz ARM hardware limitations. Licensed under MIT.
 
 
-[Protect The Bananas](https://ccherybell.itch.io/protect-the-bananas)
+[Protect The Bananas](https://ccherybell.itch.io/protect-the-bananas):
 A fast-paced, browser-playable indie shooter published live on Itch.io. 
 
 # That's all folks,
