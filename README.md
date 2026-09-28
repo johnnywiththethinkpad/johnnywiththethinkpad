@@ -1,6 +1,6 @@
-==========================================================
+
 johnnywiththethinkpad 
-===========================================================
+
 
 Hello, "As far back as I can remember, I always wanted to be a gangster"
 
