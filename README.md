@@ -22,7 +22,7 @@ An open-source, embedded Digital Audio Workstation (DAW) and loop sequencer buil
 Handles serial-to-MIDI data routing loops under tight 64MHz ARM hardware limitations. Licensed under MIT.
 
 
-[Protect The Bananas](https://ccherybell.itch.io/protect-the-bananas)**
+[Protect The Bananas](https://ccherybell.itch.io/protect-the-bananas)
 A fast-paced, browser-playable indie shooter published live on Itch.io. 
 
 # That's all folks,
