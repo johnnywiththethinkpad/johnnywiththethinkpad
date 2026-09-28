@@ -1,22 +1,22 @@
 
-johnnywiththethinkpad 
+# johnnywiththethinkpad 
 
 
-Hello, "As far back as I can remember, I always wanted to be a gangster"
+## Hello, "As far back as I can remember, I always wanted to be a gangster"
 
-About Me:
+### About Me:
 I think that x86 is in a slow, undeniable structural downfall not that I hate it but that's how tech works
 
-What I'm doing
+### What I'm doing
 * **Embedded Systems:** Pushing physical microcontrollers to their absolute limits.
 * **Game Development:** Designing interactive gameplay pipelines and mechanics.
 * **Architecture Trends:** Tracking instruction sets and the shift toward modern silicon efficiency.
 
-Tech Stack & Tools
+### Tech Stack & Tools
 * **Languages:** Python, American, English
 * **Hardware/Platforms:** BBC micro:bit v2, Microsoft MakeCode, Itch.io
 
-Featured Projects
+### Featured Projects
 [micro:midi](https://github.com)
 An open-source, embedded Digital Audio Workstation (DAW) and loop sequencer built for the micro:bit v2.
 Handles serial-to-MIDI data routing loops under tight 64MHz ARM hardware limitations. Licensed under MIT.
@@ -25,7 +25,7 @@ Handles serial-to-MIDI data routing loops under tight 64MHz ARM hardware limitat
 [Protect The Bananas](https://itch.io)**
 A fast-paced, browser-playable indie shooter published live on Itch.io. 
 
-That's all folks,
+# That's all folks,
 
 
 
