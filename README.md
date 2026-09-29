@@ -2,10 +2,10 @@
 # johnnywiththethinkpad 
 
 
-## Hello, "As far back as I can remember, I always wanted to be a gangster"
+## Hello, I am johnnywiththethinkpad
 
 ### About Me:
-I think that x86 is in a slow, undeniable structural downfall not that I hate it but that's how tech works but please don't look away Intel or Amd
+I think that x86 is in a slow, undeniable structural downfall not that I hate it but that's how tech works but please don't look away Intel or AMD
 _______________________________________________________________________________________________________________________________________________
 ### What I'm doing
 * **Embedded Systems:** Pushing physical microcontrollers to their absolute limits.
@@ -13,7 +13,7 @@ ________________________________________________________________________________
 * **Architecture Trends:** Tracking instruction sets and the shift toward modern silicon efficiency.
 _______________________________________________________________________________________________________________________________________________
 ### Tech Stack & Tools
-* **Languages:** Python, American and English
+* **Languages:** Python
 * **Hardware/Platforms:** BBC micro:bit v2, Microsoft MakeCode, Itch.io
 _______________________________________________________________________________________________________________________________________________
 ### Featured Projects
@@ -24,7 +24,6 @@ Handles serial-to-MIDI data routing loops under tight 64MHz ARM hardware limitat
 * [Protect The Bananas](https://ccherybell.itch.io/protect-the-bananas):
 A fast-paced, browser-playable indie shooter published live on Itch.io. 
 _______________________________________________________________________________________________________________________________________________
-# That's all folks,
 
 
 
