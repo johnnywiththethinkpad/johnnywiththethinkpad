@@ -5,7 +5,6 @@
 ## Hello, I am johnnywiththethinkpad
 
 ### About Me:
-I think that x86 is in a slow, undeniable structural downfall not that I hate it but that's how tech works but please don't look away Intel or AMD
 _______________________________________________________________________________________________________________________________________________
 ### What I'm doing
 * **Embedded Systems:** Pushing physical microcontrollers to their absolute limits.
