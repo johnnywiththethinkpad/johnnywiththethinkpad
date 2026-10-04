@@ -7,9 +7,8 @@
 ### About Me:
 _______________________________________________________________________________________________________________________________________________
 ### What I'm doing
-* **Embedded Systems:** Pushing physical microcontrollers to their absolute limits.
-* **Game Development:** Designing interactive gameplay pipelines and mechanics.
-* **Architecture Trends:** Tracking instruction sets and the shift toward modern silicon efficiency.
+* **Embedded Systems:** Learning C and building cool projects 
+* **Game Development:** Building Protect The Bananas on itch.io
 _______________________________________________________________________________________________________________________________________________
 ### Tech Stack & Tools
 * **Languages:** Python
