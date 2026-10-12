@@ -7,7 +7,7 @@
 ### About Me:
 _______________________________________________________________________________________________________________________________________________
 ### What I'm doing
-* **Embedded Systems:** Learning C and building cool projects 
+* **Embedded Systems:** Learning and building cool projects 
 * **Game Development:** Building Protect The Bananas on itch.io
 _______________________________________________________________________________________________________________________________________________
 ### Tech Stack & Tools
